@@ -1,0 +1,1 @@
+echo "PostgreSQL setup steps" 
